@@ -1,7 +1,7 @@
-# ICS2O-Template-PWA
+# cotwlvlxl
 
-[![Mr Coxall's Super Linter](https://github.com/Youngwook-Go/ICS2O-Template-PWA/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Youngwook-Go/ICS2O-Template-PWA/actions)
+[![Mr Coxall's Super Linter](https://github.com/Youngwook-Go/cotwlvlxl/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Youngwook-Go/cotwlvlxl/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/Youngwook-Go/ICS2O-Template-PWA)](https://repl.it/github/Youngwook-Go/ICS2O-Template-PWA)
+[![Run on Repl.it](https://repl.it/badge/github/Youngwook-Go/cotwlvlxl)](https://repl.it/github/Youngwook-Go/cotwlvlxl)
 
-This site can be found at: [https://Youngwook-Go.github.io/ICS2O-Template-PWA/](https://Youngwook-Go.github.io/ICS2O-Template-PWA/)
+This site can be found at: [https://Youngwook-Go.github.io/cotwlvlxl/](https://Youngwook-Go.github.io/cotwlvlxl/)
